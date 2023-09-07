@@ -1,7 +1,7 @@
 import Hero from './components/Hero';
-import About from './components/about';
-import Articles from './components/articles';
-import Footer from './components/footer';
+import About from './components/About';
+import Articles from './components/Articles';
+import Footer from './components/Footer';
 
 function App() {
 
